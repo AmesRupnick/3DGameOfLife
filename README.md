@@ -1,0 +1,1 @@
+This is John Conway's Game of Life, but extended out into 3 Dimensions. Much of the inspiration for this project can from Chris Evans 3D Game of Life, which can be found at this link: https://chrisevans9629.github.io/blog/2020/07/27/game-of-life
